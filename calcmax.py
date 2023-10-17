@@ -1,4 +1,5 @@
-"""calculadora com while"""
+#CALCULADORA COM OPERAÇÕES SIMPLES (+-*/) UTILIZANDO IF E WHILE.
+
 
 print('====================================')
 print('====================================')
